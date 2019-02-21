@@ -1,4 +1,6 @@
 site_name: My Docs
-
+nav: 
+  - Test: test.md
 pages: 
   - 'test.md'
+theme: readthedocs
