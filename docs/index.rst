@@ -1,6 +1,8 @@
-# hi
+hi
+##
 
-## some code blocks
+some code blocks
+################
 
 ``const x = 'hello'``
 
@@ -15,8 +17,7 @@
     tony j tibbs,
     david goodger
 
-::
-    hello i should be indented
+::hello i should be indented
 
 
 >how about some quotes
